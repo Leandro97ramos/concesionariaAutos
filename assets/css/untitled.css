@@ -1,0 +1,42 @@
+img-fluid {
+  max-height: 224px;
+}
+
+.img-fluid {
+  max-height: 224px;
+  object-fit: cover;
+}
+
+.navbar-brand img {
+  max-width: 100px;
+}
+
+.form-check .form-check-label {
+  position: absolute;
+  /*text-align: center;*/
+  left: 49%;
+  top: 14;
+  padding-top: 6%;
+}
+
+.form-check .form-check-input {
+  margin-right: -16px;
+  padding-right: 738px;
+}
+
+.form-check-input:checked[type=checkbox] {
+  /*background-color: var(--bs-indigo);*/
+  background-image: src("");
+}
+
+.form-check-input:checked[type=checkbox] {
+  /*background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3e%3cpath fill='none' stroke='%23fff' stroke-linecap='round' stroke-linejoin='round' stroke-width='3' d='m6 10 3 3 6-6'/%3e%3c/svg%3e");*/
+}
+
+#formCheck-2 {
+}
+
+.form-check {
+  /*padding: 20px 0px;*/
+}
+
